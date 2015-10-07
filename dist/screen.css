@@ -414,3 +414,6 @@ ul.repoList {
       font-size: 0.6em;
       font-weight: bold;
       padding: 10px; }
+
+#searchForm {
+  margin-left: 110px; }
